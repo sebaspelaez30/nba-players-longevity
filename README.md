@@ -1,10 +1,14 @@
-# Clasificación de la longevidad en la NBA
+<p align="center">
+  <img width="500" height="313" alt="image" src="https://github.com/user-attachments/assets/3207715c-031c-4e59-a7ac-787fff84a9e7" />
+</p>
+
+# CLASIFICACIÓN DE LONGEVIDAD EN JUGADORES DE LA NBA: PREDICCIÓN DE CARRERAS DURADERAS SEGÚN EL 'ROOKIE YEAR'
 
 ## Descripción
 Este proyecto estudia la longevidad de los jugadores de la NBA mediante técnicas de clasificación supervisada. La longevidad se define como la permanencia de un jugador en la liga durante más de cinco temporadas. El objetivo principal es identificar qué características de rendimiento, participación y eficiencia están asociadas a carreras profesionales más largas.
 
 ## Dataset
-Se utiliza el dataset **NBA Players Data (1996–2021)** obtenido de Kaggle, que contiene información a nivel de temporada sobre jugadores de la NBA, incluyendo métricas de rendimiento ofensivo, eficiencia y participación en el juego.
+Utilizamos el dataset https://www.kaggle.com/datasets/justinas/nba-players-data, que contiene información a nivel de temporada sobre jugadores de la NBA, incluyendo métricas de rendimiento ofensivo, eficiencia y participación en el juego.
 
 ## Procesado y análisis inicial
 - Limpieza de datos y tratamiento de variables inconsistentes.
