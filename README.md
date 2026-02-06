@@ -36,4 +36,4 @@ La longevidad en la NBA está más asociada a la capacidad de mantener una parti
 - matplotlib / seaborn
 
 ## Autor
-Proyecto realizado como parte de la asignatura **MD005 – Sistemas Basados en el Conocimiento**.
+Sebastian Pelaez Villalba
